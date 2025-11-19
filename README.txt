@@ -1,37 +1,3 @@
-Your website scaffold will be manually inserted here. Replace this with your code.
-/*
-Personal Brand Website (Single-file React + Tailwind)
-
-How to use:
-1. Paste this file into a new Create React App / Vite / Next.js project.
-2. Install Tailwind CSS and set up its config (this file uses Tailwind utility classes).
-3. Replace placeholder text, images, and URLs with your real content.
-4. For production, migrate to Next.js for SSR and SEO, and connect to a CMS (recommended below).
-
-What's included in this scaffold:
-- Home (Hero, Tagline, Featured Blogs, Newsletter CTA, Testimonials)
-- Blog listing and categories
-- About Me
-- Services
-- Resources
-- Case Studies (before/after metrics layout)
-- Newsletter subscribe / lead magnet
-- Book Consultation (Calendly integration)
-- Contact form
-- Glossary / FAQ / Comparison pages
-- SEO-ready meta tags and structured data placeholders
-- Responsive, minimal color palette and typography using Tailwind
-
-CMS & Deployment recommendations (see bottom of file comments):
-- CMS: Sanity, Contentful, Strapi, or WordPress (headless) for easy long-form publishing
-- Deploy: Vercel or Netlify
-- Analytics: Plausible or Google Analytics + server-side tracking for leads
-- Forms: Netlify Forms, Formspree, or serverless function (recommended for GDPR)
-
---------------------------------------------------------------------
-onLanguage:typescriptreact
-*/
-
 import React, { useState } from 'react';
 
 // Example data (replace with CMS-driven data)
@@ -438,5 +404,6 @@ Deployment checklist:
 
 ---------------------------------------------------------------------
 */
+
 
 
